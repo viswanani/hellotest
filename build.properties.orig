@@ -1,0 +1,8 @@
+source.dir=src
+web.dir=WebContent
+<<<<<<< HEAD
+war.dir=war
+jar.dir =jar
+=======
+war.dir=war
+>>>>>>> a971c5b... build files which contain all the data files
