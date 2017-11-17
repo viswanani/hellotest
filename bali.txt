@@ -1,0 +1,3 @@
+hi this is bali 
+thinking to discuss about perodic execution using CORNTAB
+corntab automates the command executon on timely basis like daily, weekly, monthly
