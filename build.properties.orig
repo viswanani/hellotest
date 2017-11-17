@@ -2,7 +2,16 @@ source.dir=src
 web.dir=WebContent
 <<<<<<< HEAD
 war.dir=war
+=======
+<<<<<<< HEAD
+
+war.dir=war
 jar.dir =jar
+
+
+
 =======
 war.dir=war
->>>>>>> a971c5b... build files which contain all the data files
+jar.dir =jar
+>>>>>>> 29f85fd... source code modified Please enter the commit message for your changes. Lines starting
+>>>>>>> 4bc7204ae3a94ba3d040711d9268f54fcec69a1f
